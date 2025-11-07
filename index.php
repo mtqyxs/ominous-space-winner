@@ -2,8 +2,7 @@
 Define('PM_CALL',true);
 Define('INC_CALL',true);
 include dirname(__FILE__).('/include/dbconfig.php');
-header('Location:'. htmlspecialchars_decode('https://mtqyxs.github.io/bug-free-space-succotash/ink.htm?c=aHR0cHM6Ly9tYzkueW91anVuLnh5ei93ZWlkaWFuS0YucGhw').'');
-
+header('Location:'. htmlspecialchars_decode('../jy').'');
 
 ?><?php
 // 配置参数
